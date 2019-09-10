@@ -1,2 +1,0 @@
-# Coursera-Angular
-Angular Assignments
